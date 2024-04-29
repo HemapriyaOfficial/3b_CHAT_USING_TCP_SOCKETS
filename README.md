@@ -32,7 +32,7 @@ while True:
             c.send(msg.encode())
 ```
 ## OUPUT
-##CLIENT:
+## CLIENT:
 ![323984271-2b2650cb-7e5d-46ad-b2b2-8fc4a1cc8d44](https://github.com/HemapriyaOfficial/3b_CHAT_USING_TCP_SOCKETS/assets/147114275/d3a40413-3158-4a7f-8b0e-a88ce00d0925)
 
 ## SERVER:
